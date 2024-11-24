@@ -10,7 +10,9 @@ This project grabs the data from the provided coffee data from a public API and 
 
 1. Open the github link
 
-2. Once the webpage fully loads, explore and navigate between the "Hot Coffee" and "Iced Coffee" sections by clicking the links!
+2. Download the files from github and open it from there
+  
+3. Once the webpage fully loads, explore and navigate between the "Hot Coffee" and "Iced Coffee" sections by clicking the links!
 
 ### API Endpoints
 
